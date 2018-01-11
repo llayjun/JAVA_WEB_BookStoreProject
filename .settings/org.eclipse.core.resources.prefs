@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/new_words.txt=GBK
+encoding//WebContent/index.jsp=UTF-8
+encoding//src/com/llayjun/bookstore/web/filter/EncodingFilter.java=GBK
+encoding//src/com/llayjun/bookstore/web/servlet/CheckImgServlet.java=UTF-8
+encoding//src/com/llayjun/bookstore/web/servlet/RegisterServlet.java=GBK
+encoding/<project>=UTF-8
