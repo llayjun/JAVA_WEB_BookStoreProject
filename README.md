@@ -1,0 +1,2 @@
+# JAVA_WEB_BookStoreProject
+这是一个简单的JSP+Servlet+mysql注册功能项目
